@@ -7,6 +7,8 @@ Based on "Home Assistant ESP Home Steppers" at https://github.com/Snipercaine/ho
 
 Based on "NodeMCU-32S ESP32 WiFi Bluetooth Development Board" at https://www.antratek.nl/nodemcu-32s-esp32-wifi-bluetooth-development-board
 
+Based on "DrZzs Live - Motorized Curtains and Cameras" at https://www.youtube.com/watch?v=J522FZIlHT8
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)

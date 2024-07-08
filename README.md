@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-stepper-nmotor
+# Home Assistant Stepper Motor
 
-Based on "ABC" at https://www.abc.com/
+Based on "How to make stepper motor move?" at https://community.home-assistant.io/t/how-to-make-stepper-motor-move/624706/2
 
 ## 100 - Introduction
 
